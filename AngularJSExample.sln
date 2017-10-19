@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS.API", "FiiiEx\AngularJS.API.csproj", "{0DA9B246-9200-4027-A1ED-D9743A9C809B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS.Web", "FiiiEx.Web\AngularJS.Web.csproj", "{30E67AB3-3ECF-496F-93BD-03D40D9A96CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA9B246-9200-4027-A1ED-D9743A9C809B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA9B246-9200-4027-A1ED-D9743A9C809B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA9B246-9200-4027-A1ED-D9743A9C809B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E67AB3-3ECF-496F-93BD-03D40D9A96CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E67AB3-3ECF-496F-93BD-03D40D9A96CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E67AB3-3ECF-496F-93BD-03D40D9A96CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784F938C-4CDB-44CE-A4B0-9509208ED98F}
+	EndGlobalSection
+EndGlobal
